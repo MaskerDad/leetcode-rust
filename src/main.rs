@@ -1,4 +1,4 @@
-mod lc_9;
+mod lc_1;
 
 fn main() {
     println!("Hello, world!");
